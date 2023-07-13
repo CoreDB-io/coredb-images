@@ -1,0 +1,14 @@
+[package]
+name = "tembo-pg-base"
+version = "15.3.0-1"
+edition = "2021"
+authors = ["tembo.io"]
+description = "Base image for Tembo's distribution of postgres"
+homepage = "https://www.tembo.io"
+license = "Apache-2.0"
+readme = "README.md"
+repository = "https://github.com/tembo-io/tembo-images/tree/main/tembo-pg-base"
+publish = false
+
+
+[dependencies]
